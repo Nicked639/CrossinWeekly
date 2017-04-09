@@ -1,5 +1,6 @@
 # CrossinWeekly
-Learning python from Corssin
-dd
-ffvvg
-不能换行？
+Learning python from Corssin.
+
+There is an exercise every week.
+
+

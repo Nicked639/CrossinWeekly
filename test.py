@@ -1,3 +1,2 @@
 print('Hello Github')
-print('d')
-print（'modifed'）
+print('Hello Pythonista')

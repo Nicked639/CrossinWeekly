@@ -57,6 +57,7 @@ def fujia2(gz,tj):
     win_time = 0
     gz_l = list(itertools.permutations(gz,len(gz)))
     tj_l = list(itertools.permutations(tj,len(tj)))
+    l1 = []
     for i in gz_l:
         for j in tj_l:
             if fujia2_win(i,j):
